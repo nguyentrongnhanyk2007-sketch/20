@@ -14,9 +14,10 @@ onload = () => {
             var typingTimer;
 
             var letterLines = [
-            "Chúc mừng Ngày Phụ nữ Việt Nam 20/10!",
-            "Tập Thể Lớp YK25C Chúc Cô luôn mạnh khỏe, luôn trẻ trung xinh đẹp,luôn trẻ mãi không già. ",
-            "Đặc biệt là trong túi lúc nào cũng có tiền và luôn luôn hạnh phúc và thành công trong công việc trồng người của mình."
+            "Hôm Nay Là Ngày 20/10 Là Ngày Phụ Nữ Việt Nam 💐!",
+            "📩Mình Xin Chúc Các Bạn Nữ Mau Ăn Chóng Lớn Và Ngoan Ngoãn.Chúc Các Bạn Luôn Luôn Hạnh Phúc Và Luôn Nở Nụ Cười Trên Môi .  Đặc Biệt Là Không Được Suy Nghĩ Gì Tiêu Cực Nhé 💕 ",
+            "📩Chúc Các Bạn Nữ Ngày Càng Trở Nên Xinh Đẹp Hơn,Gặp Thật Nhiều May Mắn Trong Cuộc Sống Nhé 💕"
+            "📩Và Cuối Cùng Là Chúc Các Bạn Sớm Đạt Ước Mơ Của Mình , Có Tất Cả Nhưng TRừ Vất Vả Ra Nhéeeeee 💕 "
         ];
 
 
