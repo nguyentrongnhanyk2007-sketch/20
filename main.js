@@ -15,8 +15,8 @@ onload = () => {
 
             var letterLines = [
             "Chúc mừng Ngày Phụ nữ Việt Nam 20/10!",
-            "Chúc người đẹp của con luôn mạnh khỏe, luôn trẻ trung xinh đẹp ",
-            "Đặc biệt là trong túi lúc nào cũng có tiền và trong lòng có con hẹ hẹ"
+            "Tập Thể Lớp YK25C Chúc Cô luôn mạnh khỏe, luôn trẻ trung xinh đẹp,luôn trẻ mãi không già. ",
+            "Đặc biệt là trong túi lúc nào cũng có tiền và luôn luôn hạnh phúc và thành công trong công việc trồng người của mình."
         ];
 
 
